@@ -1,0 +1,3 @@
+- NPV/IRR and DCF Analysis for biotech investments
+- Profitability forecasting for consumer products
+- Ratio analysis and financial modeling in Excel
